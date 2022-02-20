@@ -17,6 +17,7 @@ function countdown() {
         }
 
         output.appendChild(para);
+
         i--;
     }
 
@@ -31,10 +32,10 @@ function checkGuests() {
 
     for (const guest of people) {
         if (guest == 'Phil' || guest == 'Lola') {
-            refused.textContent += guest + " ";
+            refused.textContent += guest + " "; // Append refused guest's name to list
         }
         else {
-            admitted.textContent += guest + " ";
+            admitted.textContent += guest + " "; // Append accepted guest's name to list
         }
     }
 }
