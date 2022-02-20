@@ -19,7 +19,7 @@ This is a solution to the [Active learning exercises from Looping Code topic in 
 
 ### The challenge
 
-For the first exercise, I have to print out a simple launch countdown from 10 down to Blastoff.
+For the first exercise, I had to print out a simple launch countdown from 10 down to Blastoff. On the next exercise, I have taken a list of names stored in an array and put them into a guest list while excluding names of guests to refuse.
 
 ### Screenshot
 
@@ -42,7 +42,7 @@ From these exercises, I applied my knowledge in JavaScript loops which includes 
 
 ### Continued development
 
-Future modification includes adding button to activate a specific output and also the visuals.
+Future modification includes adding buttons to activate a specific output and also visuals.
 
 ### Useful resources
 
