@@ -50,5 +50,4 @@ Future modification includes adding buttons to activate a specific output and al
 
 ## Author
 
-- Website - [Michael Angelo](https://github.com/code-mma)
-- Frontend Mentor - [@code-mma](https://www.frontendmentor.io/profile/code-mma)
+- GitHub Profile - [Michael Angelo](https://github.com/code-mma)
